@@ -1,0 +1,33 @@
+.login-container {
+    text-align: center;
+  }
+button {
+    padding: 10px 30px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    margin-right: 5px;
+    white-space: nowrap;
+  }
+  button:hover {
+    color: #7EF47F;
+  }
+  .fondo {
+    width: 100%;
+    height: auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fondo img {
+    max-width: 100%;
+    height: auto; 
+  }
+  h1{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }

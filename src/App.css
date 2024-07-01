@@ -1,0 +1,43 @@
+#boton0{
+    position: absolute;
+    background-image: url(./assets/Multimedia/creeper.avif);
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    z-index: 2;
+    margin-left: 55%;
+    margin-top: 39%;
+}
+#boton0:hover{
+    border-color: #7EF47F;
+    border: solid;
+}
+
+#boton1{
+    position: absolute;
+    background-image: url(./assets/Multimedia/Item1.png);
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    z-index: 2;
+    margin-left: 75%;
+    margin-top: 39%;
+}
+#boton1:hover{
+    border-color: #7EF47F;
+    border: solid;
+}
+#boton2{
+    position: absolute;
+    background-image: url(./assets/Multimedia/Item2.png);
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    z-index: 2;
+    margin-left: 65%;
+    margin-top: 39%;
+}
+#boton2:hover{
+    border-color: #7EF47F;
+    border: solid;
+}

@@ -1,0 +1,42 @@
+.basicpage{
+    background-color: rgba(20,20,20,0.92);
+    box-sizing: border-box;
+    display: block;
+    unicode-bidi: isolate;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    position: fixed;
+    margin: 0%;
+  }
+  #logo{
+    height: 150px;
+    width: 325px;
+    margin-right: 250px;
+    margin-left: 25px;
+  }
+  .content{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+  .butons{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  button {
+    padding: 10px 30px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    margin-right: 5px;
+    white-space: nowrap;
+  }
+  button:hover {
+    color: #7EF47F;
+  }

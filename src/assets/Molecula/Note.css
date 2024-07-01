@@ -1,0 +1,21 @@
+#contenido{
+    background-color: #202020;
+    position: relative;
+    z-index: 2;
+}
+#Contenido h3{
+    font-family: "Minecraft";
+    margin-left: 15%;
+    padding-top: 31%;
+    position: relative;
+    z-index: 2;
+    color: white;
+}
+#Contenido p{
+    font-size: 0.9em;
+    font-family: "Minecraft";
+    margin-left: 15%;
+    position: relative;
+    z-index: 2;
+    color: white;
+}

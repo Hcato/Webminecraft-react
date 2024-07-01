@@ -1,0 +1,26 @@
+#Imagen{
+    height: 50%;
+    width: 100%;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    z-index: 1;
+    margin-top: 0%;
+}
+#BttnPrin{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-family: "Minecraft";
+    font-size: large;
+    margin-top: 25px;
+    margin-left: 15%;
+    position: relative;
+    z-index: 2;
+    color: white;
+    background: linear-gradient(to top, #3c743c 10%,#5ab15c 50%);
+    border-radius: 5px;
+}
+#BttnPrin:hover{
+    background: linear-gradient(to top, #3d773d 10%, #4e9b50 50%);
+}
